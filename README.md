@@ -1,9 +1,11 @@
-# Idea Generator
+# Idea Gen
 
-
+Site: https://calebsylvest.github.io/idea-gen/
 
 ## Tools
 
+* [Middleman](https://middlemanapp.com/)
+* [Middleman Casper](https://github.com/danielbayerlein/middleman-casper)
 * [Middleman-Github-Deploy](https://github.com/hovancik/middleman-github-deploy)
 
 ## Getting Started
