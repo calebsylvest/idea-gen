@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.example.com/2013/10/26/welcome-to-ghost/index.html</loc>
+    <lastmod>2016-12-17T19:54:37-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.example.com/index.html</loc>
+    <lastmod>2016-12-17T19:54:40-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.example.com/author/caleb-sylvest/index.html</loc>
+    <lastmod>2016-12-17T19:54:40-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.example.com/tag/getting-started/index.html</loc>
+    <lastmod>2016-12-17T19:54:40-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
