@@ -4,20 +4,20 @@
 
 config[:casper] = {
   blog: {
-    url: 'http://www.example.com',
-    name: 'Middleman',
-    description: 'Makes developing websites simple.',
+    url: 'https://calebsylvest.github.io/idea-gen/',
+    name: 'Idea Gen',
+    description: 'Scratching my head and knocking the ideas out',
     date_format: '%d %B %Y',
     navigation: true,
     logo: nil # Optional
   },
   author: {
     name: 'Caleb Sylvest',
-    bio: nil, # Optional
-    location: nil, # Optional
-    website: nil, # Optional
-    gravatar_email: nil, # Optional
-    twitter: nil # Optional
+    bio: 'Eat, Sleep, and be Merry', # Optional
+    location: 'Dallas, TX', # Optional
+    website: 'http://heyspacetime.com/', # Optional
+    gravatar_email: 'caleb.sylvest@gmail.com', # Optional
+    twitter: 'calebsylvest' # Optional
   },
   navigation: {
     "Home" => "/"
